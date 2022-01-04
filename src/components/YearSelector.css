@@ -1,0 +1,16 @@
+.year-selector {
+  text-align: end;
+  padding-right: 20px;
+  padding-top: 10px;
+}
+
+.year-selector ul {
+  list-style: none;
+}
+
+.year-selector li {
+  margin: 10px 0;
+}
+.year-selector p {
+  font-size: 16px;
+}
